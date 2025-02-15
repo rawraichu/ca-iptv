@@ -129,55 +129,55 @@ http://143.244.60.30/NICKTOONS/index.m3u8
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
 #Crave
-#EXTINF:-1 group-title="Program" tvg-id="Crave1.ca" tvg-logo="https://i.imgur.com/ZkRQ0r1.png",Crave 1 (720p)
+#EXTINF:-1 group-title="Programs" tvg-id="Crave1.ca" tvg-logo="https://i.imgur.com/ZkRQ0r1.png",Crave 1 (720p)
 http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
-#EXTINF:-1 group-title="Program" tvg-id="Crave2.ca" tvg-logo="https://i.imgur.com/e1qJ5Bp.png",Crave 2 (720p)
+#EXTINF:-1 group-title="Programs" tvg-id="Crave2.ca" tvg-logo="https://i.imgur.com/e1qJ5Bp.png",Crave 2 (720p)
 http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
-#EXTINF:-1 group-title="Program" tvg-id="Crave3.ca" tvg-logo="https://i.imgur.com/kOi0Adn.png",Crave 3 (720p)
+#EXTINF:-1 group-title="Programs" tvg-id="Crave3.ca" tvg-logo="https://i.imgur.com/kOi0Adn.png",Crave 3 (720p)
 http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
-#EXTINF:-1 group-title="Program" tvg-id="Crave4.ca" tvg-logo="https://i.imgur.com/MyH3Q2p.png",Crave 4 (720p)
+#EXTINF:-1 group-title="Programs" tvg-id="Crave4.ca" tvg-logo="https://i.imgur.com/MyH3Q2p.png",Crave 4 (720p)
 http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
 
 #Pluto
 #EXTINF:-1 group-title="Program" tvg-id="" tvg-logo="https://i.imgur.com/XzAbXAn.png",Pluto TV Action Movies (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea3c2e4823db00072788ed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d20-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c110a2fa-daa4-4051-944a-5705842fcc96
-#EXTINF:-1 group-title="Program" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Pluto_TV_logo_2024.svg",Pluto TV Adventure (720p)
+#EXTINF:-1 group-title="Programs" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Pluto_TV_logo_2024.svg",Pluto TV Adventure (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/653bdb0fbdf3cf00089cc395/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d21-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=272950eb-6667-4241-84ba-48c0968ea09d
-#EXTINF:-1 group-title="Program" tvg-id="PlutoTVAnimals.uk" tvg-logo="https://i.imgur.com/KuPue6S.png",Pluto TV Animals (England) (720p)
+#EXTINF:-1 group-title="Programs" tvg-id="PlutoTVAnimals.uk" tvg-logo="https://i.imgur.com/KuPue6S.png",Pluto TV Animals (England) (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
-#EXTINF:-1 group-title="Program" tvg-id="PlutoTVBritishTV.us" tvg-logo="https://i.imgur.com/KuIVlD1.png",Pluto TV British TV (720p)
+#EXTINF:-1 group-title="Programs" tvg-id="PlutoTVBritishTV.us" tvg-logo="https://i.imgur.com/KuIVlD1.png",Pluto TV British TV (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b68a18823ecb93393cba2f1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=154&terminate=false&userId=
-#EXTINF:-1 group-title="Program" tvg-id="PlutoTVBritishTV.us" tvg-logo="https://i.imgur.com/KuIVlD1.png",Pluto TV British TV (684p)
+#EXTINF:-1 group-title="Programs" tvg-id="PlutoTVBritishTV.us" tvg-logo="https://i.imgur.com/KuIVlD1.png",Pluto TV British TV (684p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Program" tvg-id="PlutoTVCrime.uk" tvg-logo="https://i.imgur.com/QwEpDY9.png",Pluto TV Crime (England) (720p) [Not 24/7]
+#EXTINF:-1 group-title="Programs" tvg-id="PlutoTVCrime.uk" tvg-logo="https://i.imgur.com/QwEpDY9.png",Pluto TV Crime (England) (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea18cd42ee5410007e349dc/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ea18cd42ee5410007e349dc&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=200&terminate=false&userId=
-#EXTINF:-1 group-title="Program" tvg-id="" tvg-logo="https://i.imgur.com/ou6sJVj.png",Pluto TV Documentaries (720p)
+#EXTINF:-1 group-title="Programs" tvg-id="" tvg-logo="https://i.imgur.com/ou6sJVj.png",Pluto TV Documentaries (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63f87df87533d80008ab9b4c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d27-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ff7033e4-b330-4a43-8d11-664c727998ff
-#EXTINF:-1 group-title="Program" tvg-id="PlutoTVFood.uk" tvg-logo="https://i.imgur.com/HTLo1GG.png",Pluto TV Food (England) (720p)
+#EXTINF:-1 group-title="Programs" tvg-id="PlutoTVFood.uk" tvg-logo="https://i.imgur.com/HTLo1GG.png",Pluto TV Food (England) (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf930548ff9b00090d5686/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf930548ff9b00090d5686&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=500&terminate=false&userId=
-#EXTINF:-1 group-title="Program" tvg-id="PlutoTVMovies.uk" tvg-logo="https://i.imgur.com/XzAbXAn.png",Pluto TV Movies (England) (684p)
+#EXTINF:-1 group-title="Programs" tvg-id="PlutoTVMovies.uk" tvg-logo="https://i.imgur.com/XzAbXAn.png",Pluto TV Movies (England) (684p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ad8d3a31b95267e225e4e09&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=50&terminate=false&userId=
-#EXTINF:-1 group-title="Program" tvg-id="" tvg-logo="https://i.imgur.com/udxOeQJ.png",Pluto TV Paranormal (720p)
+#EXTINF:-1 group-title="Programs" tvg-id="" tvg-logo="https://i.imgur.com/udxOeQJ.png",Pluto TV Paranormal (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92a58f3e4290007290c96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb430-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cce671df-9b66-46f4-ab1a-3c0b1cb8a74d
-#EXTINF:-1 group-title="Program" tvg-id="PlutoTVParanormal.uk" tvg-logo="https://i.imgur.com/udxOeQJ.png",Pluto TV Paranormal (England) (720p)
+#EXTINF:-1 group-title="Programs" tvg-id="PlutoTVParanormal.uk" tvg-logo="https://i.imgur.com/udxOeQJ.png",Pluto TV Paranormal (England) (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4af2ffa9506ab29cf38c38/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d4af2ffa9506ab29cf38c38&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=216&terminate=false&userId=
-#EXTINF:-1 group-title="Program" tvg-id="" tvg-logo="https://i.imgur.com/lNfaxiv.png",Pluto TV True Crime (720p)
+#EXTINF:-1 group-title="Programs" tvg-id="" tvg-logo="https://i.imgur.com/lNfaxiv.png",Pluto TV True Crime (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e9289f8d467f0007fbc701/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb433-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4f060b33-63f0-4db8-92fd-ac93ae48bcb1
 
-#Show
-#EXTINF:-1 group-title="Show" tvg-id="" tvg-logo="https://i.imgur.com/CIYnLWz.png",Fear Factor (720p)
+#Shows
+#EXTINF:-1 group-title="Shows" tvg-id="" tvg-logo="https://i.imgur.com/CIYnLWz.png",Fear Factor (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63482674df87730007656044/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a2d96-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4f3a5677-9ed1-44d1-9702-c2039e7bf0d1
-#EXTINF:-1 group-title="Show" tvg-id="" tvg-logo="https://i.imgur.com/XY487Kx.png",Gaki no Tsukai (English Subs) (720p)
+#EXTINF:-1 group-title="Shows" tvg-id="" tvg-logo="https://i.imgur.com/XY487Kx.png",Gaki no Tsukai (English Subs) (720p)
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
-#EXTINF:-1 group-title="Show" tvg-id="GordonRamsaysHellsKitchen.us" tvg-logo="https://i.imgur.com/WgN4T18.png",Gordon Ramsay (720p)
+#EXTINF:-1 group-title="Shows" tvg-id="GordonRamsaysHellsKitchen.us" tvg-logo="https://i.imgur.com/WgN4T18.png",Gordon Ramsay (720p)
 https://apollo.production-public.tubi.io/live/ac-gordon-ramsey.m3u8
-#EXTINF:-1 group-title="Show" tvg-id="" tvg-logo="https://i.imgur.com/WgN4T18.png",Gordon Ramsay's Hell's Kitchen (720p)
+#EXTINF:-1 group-title="Shows" tvg-id="" tvg-logo="https://i.imgur.com/WgN4T18.png",Gordon Ramsay's Hell's Kitchen (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea45010d0611000839868c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c1-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e3a17d6f-f38c-4a08-9e69-00d8a53906ec
-#EXTINF:-1 group-title="Show" tvg-id="https://i.imgur.com/rk7fMNe.png",Iron Chef (720p)
+#EXTINF:-1 group-title="Shows" tvg-id="https://i.imgur.com/rk7fMNe.png",Iron Chef (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6582f8dadfed030008e5a93d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7ac9d3-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=06f4488f-c700-49ec-8b6e-d27460d8c3ed
-#EXTINF:-1 group-title="Show" tvg-id="" tvg-logo="https://images.pluto.tv/channels/64c109a4798def0008a6e03e/thumbnail.jpg",Top Gear (720p)
+#EXTINF:-1 group-title="Shows" tvg-id="" tvg-logo="https://images.pluto.tv/channels/64c109a4798def0008a6e03e/thumbnail.jpg",Top Gear (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/638e10220aa6a6000726979f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7789-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=62911cb3-82ce-40f0-807f-7cc1bb78bd05
-#EXTINF:-1 group-title="Show" tvg-id="" tvg-logo="https://i.imgur.com/De3khrX.png",Unsolved Mysteries (720p)
+#EXTINF:-1 group-title="Shows" tvg-id="" tvg-logo="https://i.imgur.com/De3khrX.png",Unsolved Mysteries (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e924f2be69bc0007b7d53d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e93-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6362993f-fcc4-4e58-9056-bca26f635dcb
 
 
