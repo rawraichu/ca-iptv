@@ -13,47 +13,47 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-sa
 #CA
 #EXTINF:-1 group-title="News" tvg-id="CBCNewsNetwork.ca" tvg-logo="https://i.imgur.com/SjTdhvJ.png",CBC News Network (720p) [Geo-blocked]
 https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-logo="https://i.imgur.com/SjTdhvJ.png",CBC News BC (1080p) [Geo-blocked] (S)
+#EXTINF:-1 group-title="News" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/CBUT-DT_Logo.jpg",CBC News BC (1080p) (S) [Geo-blocked]
 https://amagi-streams.akamaized.net/hls/live/2110960/cbcnewsbc/master.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-logo="https://i.imgur.com/SjTdhvJ.png",CBC News Explore (1080p) [Geo-blocked] (S)
+#EXTINF:-1 group-title="News" tvg-id="" tvg-logo="https://www.cbc.ca/mediacentre/content/images/Explore-PR-Teal-Letterhead-542x296.jpg",CBC News Explore (1080p) (S) [Geo-blocked]
 https://amagi-streams.akamaized.net/hls/live/2110962/cbcexplore/master.m3u8
 #EXTINF:-1 group-title="News" tvg-id="CBCNewsNetwork.ca" tvg-logo="https://i.imgur.com/SjTdhvJ.png",CBC News Network (1080p) (S)
 https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="News" tvg-id="CityNewsVancouver.ca" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png",CityNews Vancouver (720p) (S)
 https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
-#EXTINF:-1 group-title="News" tvg-id="" tvg-logo="https://i.imgur.com/xk1QOhW.png",Global News BC (720p) (S)
+#EXTINF:-1 group-title="News" tvg-id="CHANDT.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Globalbc.svg/512px-Globalbc.svg.png",Global News BC (720p) (S)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbf063257170000724590c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dbc1416e-8c70-4097-a89c-835beacc1b11
 
 #US
-#EXTINF:-1 group-title="News" tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",ABC News Live (720p)
+#EXTINF:-1 group-title="News" tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",ABC News Live (720p)
 https://livetv-fa.tubi.video/abc-news/index.m3u8
-#EXTINF:-1 group-title="News" tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",ABC News (720p)
+#EXTINF:-1 group-title="News" tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",ABC News (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 group-title="News" tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",ABC News Live (720p)
+#EXTINF:-1 group-title="News" tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",ABC News Live (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265962-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=99b21a01-5948-4846-8087-2fee1b5f0a3d
 #EXTINF:-1 group-title="News" tvg-id="BloombergOriginals.us" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg Originals (1080p)
 https://d7ec4f6950ed4c6d946e497bd44db7ef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_QuickTake-1/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-id="BloombergQuicktake.us" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg Quicktake (1080p)
+#EXTINF:-1 group-title="News" tvg-id="BloombergQuicktake.us" tvg-logo="https://i.imgur.com/T4HwPUn.png",Bloomberg Quicktake (1080p)
 https://bloomberg.com/media-manifest/streams/qt.m3u8
-#EXTINF:-1 group-title="News" tvg-id="BloombergQuicktake.us" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg Quicktake (720p)
+#EXTINF:-1 group-title="News" tvg-id="BloombergQuicktake.us" tvg-logo="https://i.imgur.com/T4HwPUn.png",Bloomberg Quicktake (720p)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Originals.m3u8
 #EXTINF:-1 group-title="News" tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV US (720p)
 https://bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 group-title="News" tvg-id="CBSNews247.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_(2020).svg/512px-CBS_logo_(2020).svg.png",CBS News 24/7 (720p)
+#EXTINF:-1 group-title="News" tvg-id="CBSNews247.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png",CBS News 24/7 (720p)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 group-title="News" tvg-id="CBSNews247.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_(2020).svg/512px-CBS_logo_(2020).svg.png",CBS News 24/7 (720p)
+#EXTINF:-1 group-title="News" tvg-id="CBSNews247.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png",CBS News 24/7 (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=36903a12-54e9-4279-a247-c026f64396a8
-#EXTINF:-1 group-title="News" tvg-id="KIRODT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_(2020).svg/512px-CBS_logo_(2020).svg.png",CBS 7 Seattle WA (KIRO) (720p)
+#EXTINF:-1 group-title="News" tvg-id="KIRODT1.us" tvg-logo="https://i.imgur.com/5cZ3fYV.png",CBS 7 Seattle WA (KIRO) (720p)
 https://apollo.production-public.tubi.io/live/ac-kiro.m3u8
-#EXTINF:-1 group-title="News" tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/q4DRG10.png",NBC News Now (1080p)
+#EXTINF:-1 group-title="News" tvg-id="NBCNewsNOW.us" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1039.png",NBC News Now (1080p)
 https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
-#EXTINF:-1 group-title="News" tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/q4DRG10.png",NBC News Now (1080p)
+#EXTINF:-1 group-title="News" tvg-id="NBCNewsNOW.us" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1039.png",NBC News Now (1080p)
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 group-title="News" tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png",NBC News Now (720p)
+#EXTINF:-1 group-title="News" tvg-id="NBCNewsNOW.us" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1039.png",NBC News Now (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5101-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f97284ae-c6d0-447a-b3ee-5be284830e0b
-#EXTINF:-1 group-title="News" tvg-id="KINGDT1.us" tvg-logo="https://i.imgur.com/q4DRG10.png",NBC 5 Seattle WA (KING) (1080p)
+#EXTINF:-1 group-title="News" tvg-id="KINGDT1.us" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/NBC_Seattle.png",NBC 5 Seattle WA (KING) (1080p)
 https://livetv-fa.tubi.video/king/live.m3u8
-#EXTINF:-1 group-title="News" tvg-id="KINGDT1.us" tvg-logo="https://i.imgur.com/q4DRG10.png",NBC 5 Seattle WA (KING-DT1) (1080p)
+#EXTINF:-1 group-title="News" tvg-id="KINGDT1.us" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/NBC_Seattle.png",NBC 5 Seattle WA (KING-DT1) (1080p)
 https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/elvs/live.m3u8
 
 #JP
@@ -75,35 +75,35 @@ https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 
 #TV
-#EXTINF:-1 group-title="TV" tvg-id="BBCAmericaEast.us" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC America East (720p)
+#EXTINF:-1 group-title="TV" tvg-id="BBCAmericaEast.us" tvg-logo="https://i.imgur.com/pTiiPz0.png",BBC America East (720p)
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC Earth (1080p)
+#EXTINF:-1 group-title="TV" tvg-id="BBCEarth.ca" tvg-logo="https://i.imgur.com/nGSsUd4.png",BBC Earth (1080p)
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC Earth (720p)
+#EXTINF:-1 group-title="TV" tvg-id="BBCEarth.ca" tvg-logo="https://i.imgur.com/nGSsUd4.png",BBC Earth (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=73fe2b3e-3885-4bd2-874c-cc5f2153e555
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC Earth (720p)
+#EXTINF:-1 group-title="TV" tvg-id="BBCEarth.ca" tvg-logo="https://i.imgur.com/nGSsUd4.png",BBC Earth (720p)
 https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="BBCFood.us" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC Food (720p)
+#EXTINF:-1 group-title="TV" tvg-id="BBCFood.us" tvg-logo="https://i.imgur.com/kcmHcSx.png",BBC Food (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c628f2e9-ff30-4bd0-9ff6-99fb1649f628
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC Food Pluto TV (720p)
+#EXTINF:-1 group-title="TV" tvg-id="BBCFood.us" tvg-logo="https://i.imgur.com/kcmHcSx.png",BBC Food Pluto TV (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="TV" tvg-id="BBCHomeGarden.us" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC Home & Garden (720p)
+#EXTINF:-1 group-title="TV" tvg-id="BBCHomeGarden.us" tvg-logo="https://i.imgur.com/rC0pi1D.png",BBC Home & Garden (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=844b6663-bad2-462b-9aef-d0f33d5dfaa0
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC Home Pluto TV (720p)
+#EXTINF:-1 group-title="TV" tvg-id="BBCHomeGarden.us" tvg-logo="https://i.imgur.com/rC0pi1D.png",BBC Home Pluto TV (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://i.imgur.com/swUX3hQ.png",Gusto (1080p)
+#EXTINF:-1 group-title="TV" tvg-id="GustoTV.ca" tvg-logo="https://i.imgur.com/swUX3hQ.png",Gusto (1080p)
 https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="GustoTV.ca" tvg-logo="https://i.imgur.com/swUX3hQ.png",Gusto TV (1080p)
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="LoveNature4K.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png",Love Nature 4K (2160p)
+#EXTINF:-1 group-title="TV" tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/JEDlYlh.png",Love Nature 4K (2160p)
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png",Love Nature (1080p)
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://i.imgur.com/wPQVVtj.png",Olympic Channel [Geo-blocked] (1080p)
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="PBSNature.us" tvg-logo="https://i.imgur.com/8c8isLj.png",PBS Nature [Geo-blocked] (1080p)
+#EXTINF:-1 group-title="TV" tvg-id="PBSNature.us" tvg-logo="https://i.imgur.com/Brry7cZ.png",PBS Nature [Geo-blocked] (1080p)
 https://amg01597-wnetnewyorkpubl-pbsnature-xumo-8xorq.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="PBSNature.us" tvg-logo="https://i.imgur.com/8c8isLj.png",PBS Nature (720p)
+#EXTINF:-1 group-title="TV" tvg-id="PBSNature.us" tvg-logo="https://i.imgur.com/Brry7cZ.png",PBS Nature (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/640a64bd73e013000893d4e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f23-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c1a2f62c-0e00-4ba7-b555-34d14d59fee4
 #EXTINF:-1 group-title="TV" tvg-id="Wonder.uk" tvg-logo="https://i.imgur.com/LquGNbh.png",Wonder (720p)
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
@@ -115,17 +115,17 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58
 http://92.114.85.72:8000/play/a07h
 #EXTINF:-1 group-title="Cartoon" tvg-id="DisneyChannelEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png",Disney Channel (720p)
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Cartoon" tvg-id="DisneyXDEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png",Disney XD (720p)
+#EXTINF:-1 group-title="Cartoon" tvg-id="DisneyXDEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png",Disney XD (720p)
 https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-id="NickelodeonEast.us" tvg-logo="https://i.imgur.com/E84jnP8.png",Nickelodeon East (720p)
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-id="NickelodeonEast.us" tvg-logo="https://i.imgur.com/E84jnP8.png",Nickelodeon East (720p)
 http://143.244.60.30/NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="Cartoon" tvg-id="" tvg-logo="https://i.imgur.com/E84jnP8.png",Nickelodeon Pluto TV (720p)
+#EXTINF:-1 group-title="Cartoon" tvg-id="NickelodeonEast.us" tvg-logo="https://i.imgur.com/E84jnP8.png",Nickelodeon Pluto TV (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5108-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5730720c-9e54-41d9-b73d-eab8fdac7291
-#EXTINF:-1 group-title="Cartoon" tvg-id="NicktoonsEast.us" tvg-logo="https://i.imgur.com/E84jnP8.png",NickToons (720p)
+#EXTINF:-1 group-title="Cartoon" tvg-id="NicktoonsEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/512px-Nicktoons_Network_logo_2009.svg.png",NickToons (720p)
 http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:-1 group-title="Cartoon" tvg-id="ToonamiAftermathEast.us" tvg-logo="https://i.imgur.com/cqUlKg6.png",Toonami Aftermath East (480p)
+#EXTINF:-1 group-title="Cartoon" tvg-id="ToonamiAftermathEast.us" tvg-logo="https://i.imgur.com/aSjhZK7.png",Toonami Aftermath East (480p)
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 
 #Crave
@@ -141,7 +141,7 @@ http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
 #Pluto
 #EXTINF:-1 group-title="Programs" tvg-id="" tvg-logo="https://i.imgur.com/XzAbXAn.png",Pluto TV Action Movies (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea3c2e4823db00072788ed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d20-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c110a2fa-daa4-4051-944a-5705842fcc96
-#EXTINF:-1 group-title="Programs" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Pluto_TV_logo_2024.svg",Pluto TV Adventure (720p)
+#EXTINF:-1 group-title="Programs" tvg-id="" tvg-logo="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/featuredImage.jpg",Pluto TV Adventure (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/653bdb0fbdf3cf00089cc395/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d21-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=272950eb-6667-4241-84ba-48c0968ea09d
 #EXTINF:-1 group-title="Programs" tvg-id="PlutoTVAnimals.uk" tvg-logo="https://i.imgur.com/KuPue6S.png",Pluto TV Animals (England) (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
@@ -165,19 +165,19 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4af2ffa9506ab29c
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e9289f8d467f0007fbc701/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb433-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4f060b33-63f0-4db8-92fd-ac93ae48bcb1
 
 #Shows
-#EXTINF:-1 group-title="Shows" tvg-id="" tvg-logo="https://i.imgur.com/CIYnLWz.png",Fear Factor (720p)
+#EXTINF:-1 group-title="Shows" tvg-id="FearFactor.us" tvg-logo="https://i.imgur.com/CIYnLWz.png",Fear Factor (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63482674df87730007656044/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a2d96-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4f3a5677-9ed1-44d1-9702-c2039e7bf0d1
 #EXTINF:-1 group-title="Shows" tvg-id="" tvg-logo="https://i.imgur.com/XY487Kx.png",Gaki no Tsukai (English Subs) (720p)
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 #EXTINF:-1 group-title="Shows" tvg-id="GordonRamsaysHellsKitchen.us" tvg-logo="https://i.imgur.com/WgN4T18.png",Gordon Ramsay (720p)
 https://apollo.production-public.tubi.io/live/ac-gordon-ramsey.m3u8
-#EXTINF:-1 group-title="Shows" tvg-id="" tvg-logo="https://i.imgur.com/WgN4T18.png",Gordon Ramsay's Hell's Kitchen (720p)
+#EXTINF:-1 group-title="Shows" tvg-id="GordonRamsaysHellsKitchen.us" tvg-logo="https://i.imgur.com/WgN4T18.png",Gordon Ramsay's Hell's Kitchen (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea45010d0611000839868c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7aa2c1-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e3a17d6f-f38c-4a08-9e69-00d8a53906ec
-#EXTINF:-1 group-title="Shows" tvg-id="https://i.imgur.com/rk7fMNe.png",Iron Chef (720p)
+#EXTINF:-1 group-title="Shows" tvg-id="IronChef.us" tvg-logo="https://i.imgur.com/rk7fMNe.png",Iron Chef (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6582f8dadfed030008e5a93d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7ac9d3-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=06f4488f-c700-49ec-8b6e-d27460d8c3ed
-#EXTINF:-1 group-title="Shows" tvg-id="" tvg-logo="https://images.pluto.tv/channels/64c109a4798def0008a6e03e/thumbnail.jpg",Top Gear (720p)
+#EXTINF:-1 group-title="Shows" tvg-id="PlutoTVTopGear.it" tvg-logo="https://images.pluto.tv/channels/64c109a4798def0008a6e03e/thumbnail.jpg",Top Gear (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/638e10220aa6a6000726979f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7789-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=62911cb3-82ce-40f0-807f-7cc1bb78bd05
-#EXTINF:-1 group-title="Shows" tvg-id="" tvg-logo="https://i.imgur.com/De3khrX.png",Unsolved Mysteries (720p)
+#EXTINF:-1 group-title="Shows" tvg-id="UnsolvedMysteries.us" tvg-logo="https://i.imgur.com/De3khrX.png",Unsolved Mysteries (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e924f2be69bc0007b7d53d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e93-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6362993f-fcc4-4e58-9056-bca26f635dcb
 
 
