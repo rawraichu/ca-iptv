@@ -107,9 +107,9 @@ http://mytv.dothome.co.kr/ch/catv/7.php
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png",Love Nature (1080p)
 https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://i.imgur.com/wPQVVtj.png",Olympic Channel [Geo-blocked] (1080p)
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://i.imgur.com/wPQVVtj.png",Olympic Channel (1080p) [Geo-blocked]
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OCTV_32.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="PBSNature.us" tvg-logo="https://i.imgur.com/Brry7cZ.png",PBS Nature [Geo-blocked] (1080p)
+#EXTINF:-1 group-title="TV" tvg-id="PBSNature.us" tvg-logo="https://i.imgur.com/Brry7cZ.png",PBS Nature (1080p) [Geo-blocked]
 https://amg01597-wnetnewyorkpubl-pbsnature-xumo-8xorq.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="PBSNature.us" tvg-logo="https://i.imgur.com/Brry7cZ.png",PBS Nature (720p)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/640a64bd73e013000893d4e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f23-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c1a2f62c-0e00-4ba7-b555-34d14d59fee4
