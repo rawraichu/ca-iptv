@@ -74,6 +74,10 @@ https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="News" tvg-id="France24French.fr" tvg-logo="https://i.imgur.com/u8N6uoj.png",France 24 French (1080p)
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 
+#SG
+#EXTINF:-1 group-title="News" tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png",CNA International (1080p)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
 #TV
 #EXTINF:-1 group-title="TV" tvg-id="BBCAmericaEast.us" tvg-logo="https://i.imgur.com/pTiiPz0.png",BBC America East (720p)
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
