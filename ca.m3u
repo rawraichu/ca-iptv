@@ -95,6 +95,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe
 https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="GustoTV.ca" tvg-logo="https://i.imgur.com/swUX3hQ.png",Gusto TV (1080p)
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png",KBS World (720p)
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png",KBS World (480p)
+http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:-1 group-title="TV" tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/JEDlYlh.png",Love Nature 4K (2160p)
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png",Love Nature (1080p)
